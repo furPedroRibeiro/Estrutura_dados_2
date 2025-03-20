@@ -1,0 +1,3 @@
+[submodule "recursao/exercicios_recursividade_c"]
+	path = recursao/exercicios_recursividade_c
+	url = https://github.com/furPedroRibeiro/exercicios_recursividade_c.git
